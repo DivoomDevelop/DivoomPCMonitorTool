@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateVisitor.resources
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DivoomDevicePostItem.resources
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DivoomPCDataTool.exe
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DivoomPCDataTool.pdb
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DivoomPCDataTool.Properties.Resources.resources
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DivoomPCDataTool.exe
+D:\work\divoom_product\timebox\branch\pc_hardwaremonitor\OpenHardware源码+实例\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DivoomPCDataTool.pdb
